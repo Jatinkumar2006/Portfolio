@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for Jatin Kumar's personal portfolio w
 
 ## 🚀 Live Demo
 
-[View Live Demo Here](YOUR_LIVE_DEMO_URL_HERE) 
+[View Live Demo Here](https://famous-pavlova-b46d1a.netlify.app/) 
 ## ✨ Features
 
 This portfolio is designed to be modern, responsive, and interactive, highlighting key aspects of my work and learning journey.
